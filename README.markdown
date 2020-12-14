@@ -1,3 +1,4 @@
 images
 ========
-Some images for the repository readme
+Some images for the repository readme.
+
